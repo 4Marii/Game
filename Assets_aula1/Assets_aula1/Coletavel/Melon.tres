@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://bvwfnsmbhr57t"]
+
+[ext_resource type="Texture2D" uid="uid://eoadu6fx0xbi" path="res://Assets_aula1/Assets_aula1/Coletavel/MelonBom.png" id="1_fvmaa"]
+
+[resource]
+atlas = ExtResource("1_fvmaa")
+region = Rect2(0, 0, 32, 32)
